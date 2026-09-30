@@ -1,3 +1,4 @@
+//dataypes assignment
 let firstName = "Pawan"
 console.log(firstName);
 console.log(typeof firstName);
